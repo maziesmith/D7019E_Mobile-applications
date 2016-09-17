@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="backgroundColor">#000000</color>
+</resources>
